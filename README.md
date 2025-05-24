@@ -11,6 +11,7 @@ Let's connect! Find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-Michael_Aheebwa-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/michael_aheebwa?igsh=MW5kYm5tYjk2OTgzdA==)
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-Drichlet-149EF2?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/profile/aheebwamike](https://www.sololearn.com/en/profile/33968466))
 
+## About This Python Program
 A secure Python-based user registration system with validation, password hashing, and subscription management.
 
 ## Features
