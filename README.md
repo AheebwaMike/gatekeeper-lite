@@ -3,6 +3,14 @@
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+## Connect with Me
+Let's connect! Find me on:
+
+[![GitHub](https://img.shields.io/badge/GitHub-AheebwaMike-181717?style=for-the-badge&logo=github)](https://github.com/AheebwaMike)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AheebwaMichael-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AheebwaMichael)
+[![Instagram](https://img.shields.io/badge/Instagram-Michael_Aheebwa-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/michael_aheebwa?igsh=MW5kYm5tYjk2OTgzdA==)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-Drichlet-149EF2?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/profile/aheebwamike](https://www.sololearn.com/en/profile/33968466))
+
 A secure Python-based user registration system with validation, password hashing, and subscription management.
 
 ## Features
@@ -81,11 +89,3 @@ Open an issue or fork the project and tag me!
 ## 📜 License
 MIT License — feel free to use, modify, and share. Just give credit where it’s due!
 
-## Connect with Me
-Let's connect! Find me on:
-
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-181717?style=for-the-badge&logo=github)](https://github.com/AheebwaMike)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AheebwaMichael)
-[![Instagram](https://img.shields.io/badge/Instagram-YourAccount-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/michael_aheebwa?igsh=MW5kYm5tYjk2OTgzdA==)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-YourProfile-149EF2?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/profile/aheebwamike)
