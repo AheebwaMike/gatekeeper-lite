@@ -82,11 +82,9 @@ Open an issue or fork the project and tag me!
 MIT License — feel free to use, modify, and share. Just give credit where it’s due!
 
 ## Connect with Me
-
-Feel free to reach out or follow me on my social media!
-
-* [<img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="20"> GitHub](https://github.com/AheebwaMike)
-* [<img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20"> LinkedIn](https://www.linkedin.com/in/AheebwaMichael)
-* [<img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="20"> Instagram](https://www.instagram.com/michael_aheebwa?igsh=MW5kYm5tYjk2OTgzdA==)
-* [<img alt="TikTok" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" width="20"> TikTok](https://www.tiktok.com/@michael_israel_)
-* [![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail)](mailto:michaelaheebwa357@gmail.com)
+Let's connect! Find me on:
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-181717?style=for-the-badge&logo=github)](https://github.com/AheebwaMike)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AheebwaMichael)
+[![Instagram](https://img.shields.io/badge/Instagram-YourAccount-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/michael_aheebwa?igsh=MW5kYm5tYjk2OTgzdA==)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-YourProfile-149EF2?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/profile/aheebwamike)
