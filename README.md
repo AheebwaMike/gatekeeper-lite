@@ -83,3 +83,4 @@ MIT License — feel free to use, modify, and share. Just give credit where it�
 
 ## FOLLOW ME 😊
 [Follow me on GitHub](https://github.com/YourGitHubUsername)
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg)](https://github.com/YourGitHubUsername)
