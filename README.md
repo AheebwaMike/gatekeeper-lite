@@ -37,6 +37,7 @@ Your details will be securely stored in database.json and settings saved in sett
 
 ### Code Structure
 gatekeeper-app/
+
 ├── main.py            # Main application logic 
 
 ├── app_utils.py       # Validation and utility functions
@@ -65,3 +66,17 @@ gatekeeper-app/
 - Persistent data storage
 - Separation of concerns
 
+### 🤓 Why I Built This
+This is part of my self-teaching journey in Python. I wanted to combine practical coding with things like:
+- Configuration files (.ini, .json)
+- Data validation
+- Simulated real-world logic (user auth, logging, etc.)
+Feel free to use this to learn, expand, or remix!
+
+### 📬 Feedback / Contributions
+Suggestions and contributions are welcome.
+
+Open an issue or fork the project and tag me!
+
+### 📜 License
+MIT License — feel free to use, modify, and share. Just give credit where it’s due!
