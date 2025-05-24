@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Michael",
+    "password": "FreakM@123",
+    "DOB": "12/03/2003"
+  },
+  {
+    "name": "John",
+    "password": "AppleJuice_2025",
+    "DOB": "29/10/2002"
+  },
+  {
+    "name": "Jonah",
+    "password": "Ep2eTcc?",
+    "DOB": "12/12/2002"
+  },
+  {
+    "name": "Kareem",
+    "password": "pInFd0(l",
+    "DOB": "12/03/1987"
+  },
+  {
+    "name": "Philip Jones",
+    "password": "f?RaqR8h",
+    "DOB": "07/07/2001"
+  },
+  {
+    "name": "Sharon",
+    "password": "80f9841db4d95e9d354d709c76d82e46e5bc93fbb91be28f53517c8ec27da99c",
+    "DOB": "12/12/2003"
+  },
+  {
+    "name": "Fred",
+    "password": "a67fce4098cfbaf63e391f1c66301500ec615641d433fa5fea5ad84fa1ab6864",
+    "DOB": "12/02/2006"
+  },
+  {
+    "name": "Kamoga",
+    "password": "2ace910ebca8bb22d1c264f6b3d149a9cc787fc40131fd42bd94d23eefe42cae",
+    "DOB": "09/09/2003"
+  }
+]
