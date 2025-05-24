@@ -89,3 +89,4 @@ Feel free to reach out or follow me on my social media!
 * [<img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20"> LinkedIn](https://www.linkedin.com/in/AheebwaMichael)
 * [<img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="20"> Instagram](https://www.instagram.com/michael_aheebwa?igsh=MW5kYm5tYjk2OTgzdA==)
 * [<img alt="TikTok" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" width="20"> TikTok](https://www.tiktok.com/@michael_israel_)
+* [![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail)](mailto:michaelaheebwa357@gmail.com)
