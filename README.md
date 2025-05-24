@@ -31,8 +31,8 @@ A secure Python-based user registration system with validation, password hashing
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AheebwaMike/gatekeeper-app.git
-   cd gatekeeper-app
+   git clone https://github.com/AheebwaMike/gatekeeper-lite.git
+   cd gatekeeper-lite
 2. Run the application
    ```bash
    python main.py
