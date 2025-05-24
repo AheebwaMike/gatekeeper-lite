@@ -37,11 +37,11 @@ Your details will be securely stored in database.json and settings saved in sett
 
 ### Code Structure
 gatekeeper-app/
-├── main.py            # Main application logic
-├── app_utils.py       # Validation and utility functions
-├── database.json      # User data storage (created if doesn't exist)
-├── settings.ini       # Application configuration
-└── README.md          # This file
+├── main.py            # Main application logic 
+├── app_utils.py       # Validation and utility functions 
+├── database.json      # User data storage (created if doesn't exist) 
+├── settings.ini       # Application configuration 
+└── README.md          # This file 
 
 ### SKills Demonstrated
 ## 1. Core Programming
