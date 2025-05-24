@@ -80,3 +80,6 @@ Open an issue or fork the project and tag me!
 
 ## 📜 License
 MIT License — feel free to use, modify, and share. Just give credit where it’s due!
+
+## FOLLOW ME 😊
+[Follow me on GitHub](https://github.com/YourGitHubUsername)
