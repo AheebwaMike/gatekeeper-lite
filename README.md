@@ -86,5 +86,6 @@ MIT License â€” feel free to use, modify, and share. Just give credit where itâ€
 Feel free to reach out or follow me on my social media!
 
 * [<img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="20"> GitHub](https://github.com/AheebwaMike)
-* [<img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20"> LinkedIn](https://www.linkedin.com/in/YourLinkedInProfileURL/)
+* [<img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20"> LinkedIn](https://www.linkedin.com/in/AheebwaMichael)
 * [<img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="20"> Instagram](https://www.instagram.com/michael_aheebwa?igsh=MW5kYm5tYjk2OTgzdA==)
+* * [<img alt="TikTok" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" width="20"> TikTok](https://www.tiktok.com/@michael_israel_)
