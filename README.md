@@ -82,5 +82,22 @@ Open an issue or fork the project and tag me!
 MIT License — feel free to use, modify, and share. Just give credit where it’s due!
 
 ## FOLLOW ME 😊
-[Follow me on GitHub](https://github.com/YourGitHubUsername)
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg)](https://github.com/YourGitHubUsername)
+[Follow me on GitHub](https://github.com/AheebwaMike)
+[Connect with me on Linkedin](https://linkedin.com/in/AheebwaMichael)
+[Follow me on Instagram][https://www.instagram.com/michael_aheebwa?igsh=MW5kYm5tYjk2OTgzdA==]
+
+# My Awesome Project
+
+This is a brief description of my project.
+
+---
+
+## Connect with Me
+
+Feel free to reach out or follow me on my social media!
+
+* [<img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="20"> GitHub](https://github.com/YourGitHubUsername)
+* [<img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20"> LinkedIn](https://www.linkedin.com/in/YourLinkedInProfileURL/)
+* [<img alt="X" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="20"> X (formerly Twitter)](https://x.com/YourTwitterHandle)
+* [<img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="20"> Instagram](https://www.instagram.com/YourInstagramHandle/)
+* [🌐 My Website](https://www.yourwebsite.com)
