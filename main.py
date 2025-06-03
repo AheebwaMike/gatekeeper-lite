@@ -47,7 +47,7 @@ while True:
     auto_password_choice = input('Would You like an automatic Password (Y) or choose your self one (N)??: >>').lower()
     print()
 
-    if auto_password_choice not in 'yn':
+    if auto_password_choice not in ['y', 'n']:
         print('Incorrect Choice...')
         continue
 
