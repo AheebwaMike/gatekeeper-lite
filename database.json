@@ -38,5 +38,15 @@
     "name": "Kamoga",
     "password": "2ace910ebca8bb22d1c264f6b3d149a9cc787fc40131fd42bd94d23eefe42cae",
     "DOB": "09/09/2003"
+  },
+  {
+    "name": "Michelle",
+    "password": "65e6a2ca5c28d7e688e2bbd3a6761c2142dce6a6bdb193d4889db768a373489d",
+    "DOB": "29/09/2004"
+  },
+  {
+    "name": "Asake",
+    "password": "a9c07ff099f7dba36e59475881ccb4b46956e9c4aae031321f88027f301a57f5",
+    "DOB": "03/09/2005"
   }
 ]

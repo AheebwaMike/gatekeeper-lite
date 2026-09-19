@@ -75,6 +75,8 @@ while True:
             print(password_verification_message)
             print(f'You\'re Almost there, {user_name}!')
             print()
+            break
+
 
 
 # get and verify DOB
