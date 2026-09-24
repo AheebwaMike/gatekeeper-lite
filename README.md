@@ -16,12 +16,12 @@ A secure Python-based user registration system with validation, password hashing
 
 ## Features
 
-- ✔️ User name validation (2+ chars, no special chars except _)
-- 🔒 Password management (auto-generation or manual with strict rules)
-- 📅 Date of birth verification (DD/MM/YYYY format, 18+ only)
-- 💳 Subscription system with payment options
-- ⚙️ Configuration management via INI files
-- 🔐 SHA-256 password hashing for security
+- User name validation (2+ characters, no special characters except _)
+- Password management (auto-generation or manual entry with strict validation rules)
+- Date of birth verification (DD/MM/YYYY format, 18+ only)
+- Subscription system with payment options
+- Configuration management via INI files
+- SHA-256 password hashing for security
 
 ## Getting Started
 
@@ -57,36 +57,40 @@ gatekeeper-app/
 
 └── README.md          # This file 
 
-### SKills Demonstrated
-## 1. Core Programming
+### Skills Demonstrated
+
+#### 1. Core Programming
 - File I/O operations (JSON, INI)
 - Regular expressions
 - Data validation
 - Error handling
 - Modular code organization
-## 2. Security
+
+#### 2. Security
 - Password hashing (SHA-256)
 - Input sanitization
 - Secure password generation
 - Age verification
-## 3. Software Practices
+
+#### 3. Software Practices
 - Configuration management
 - User interaction flows
 - Persistent data storage
 - Separation of concerns
 
-## 🤓 Why I Built This
-This is part of my self-teaching journey in Python. I wanted to combine practical coding with things like:
+## Why I Built This
+This project is part of my self-teaching journey in Python. It combines practical coding with real-world concepts such as:
 - Configuration files (.ini, .json)
 - Data validation
-- Simulated real-world logic (user auth, logging, etc.)
-Feel free to use this to learn, expand, or remix!
+- Simulated user authentication and logging workflows
 
-## 📬 Feedback / Contributions
+Feel free to use this project to learn, expand, or adapt it for your own work.
+
+## Feedback and Contributions
 Suggestions and contributions are welcome.
 
-Open an issue or fork the project and tag me!
+Open an issue or fork the project and share your ideas.
 
-## 📜 License
-MIT License — feel free to use, modify, and share. Just give credit where it’s due!
+## License
+MIT License — feel free to use, modify, and share. Please give credit where it is due.
 
